@@ -29,7 +29,7 @@ Este repositório documenta minha jornada de aprendizado em cibersegurança defe
 - Análises de incidentes simulados
 - Documentação de ferramentas e técnicas aprendidas
 
-> **Nota:** Este portfólio está em constante atualização. Última atualização: [DATA]
+> **Nota:** Este portfólio está em constante atualização. Última atualização: 31/05/2026
 
 ---
 
