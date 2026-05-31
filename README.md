@@ -222,9 +222,7 @@ Use este template para documentar cada lab:
 ## 📞 Contato
 
 - 💼 LinkedIn: [linkedin.com/in/seu-perfil]
-- 📧 Email: [seu-email@email.com]
-- 🐦 Twitter/X: [@seu-usuario]
-- 💬 Discord: [seu-usuario#0000]
+- 📧 Email: kukiuon@hotmail.com
 
 ---
 
