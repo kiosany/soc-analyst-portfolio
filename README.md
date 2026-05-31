@@ -1,10 +1,10 @@
 # 🛡️ SOC Analyst / Blue Team Portfolio
 
-> **Nome:** [LUCAS SOARES]  
+> **Nome:** LUCAS SOARES  
 > **Formação:** Graduação em Análise e Desenvolvimento de Sistemas | Pós-graduação em Segurança da Informação  
 > **Objetivo:** SOC Analyst Nível 1 / Blue Team  
 > **LinkedIn:** [linkedin.com/in/seu-perfil]  
-> **Contato:** [seu-email@email.com]
+> **Contato:** KUKIUON@HOTMAIL.COM
 
 ---
 
